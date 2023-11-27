@@ -1,7 +1,7 @@
 # 📩 Automating WhatsApp messages to send them to different numbers!
 
 ### 🎯 **Aim**           
-_This project is developed for [Spartificial](https://spartificial.com) to automate the process of sending invitations to students via WhatsApp for their programs and workshops._
+* _This project is developed for [Spartificial](https://spartificial.com) to automate the process of sending invitations to students via WhatsApp for their programs and workshops._
 
 ### ⚙️ **How to Configure the Parameters in `config.py`**
 1. _Change the `DIRECTORY_PATH` to the path where the student's CSV data is stored in your system_
