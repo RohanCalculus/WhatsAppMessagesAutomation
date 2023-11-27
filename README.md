@@ -1,8 +1,5 @@
 # 📩 Automating WhatsApp messages to send them to different numbers!
 
-### 🎯 **Aim**           
-* _This project is developed for [Spartificial](https://spartificial.com) to automate the process of sending invitations to students via WhatsApp for their programs and workshops._
-
 ### ⚙️ **How to Configure the Parameters in `config.py`**
 1. _Change the `DIRECTORY_PATH` to the path where the student's CSV data is stored in your system_
 2. _Use `mouse_coordinates.py` to configure your mouse location on WhatsApp screen_
@@ -19,8 +16,8 @@
 5. _Run `main.py` after configuring your mouse location and other parameters if required_
 
 ### 🤝 **Developer Details**
-$\rightarrow$ **`Name:`** *Rohan Shah*           
-$\rightarrow$ **`Message:`** *Reach out to me in case of any discussions over this repo or for any projects related to Python and AI/ML.*
+* **`Name:`** *Rohan Shah*           
+* **`Message:`** *Reach out to me in case of any discussions over this repo or for any projects related to Python and AI/ML.*
 
 
 
