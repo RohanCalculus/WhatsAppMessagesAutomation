@@ -1,4 +1,4 @@
-# 📩 Automating WhatsApp messages to send them to different numbers!
+# 📩 WhatsApp Messages Automation
 
 ### ⚙️ **How to Configure the Parameters in `config.py`**
 1. _Change the `DIRECTORY_PATH` to the path where the student's CSV data is stored in your system_
