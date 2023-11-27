@@ -13,7 +13,7 @@ _This project is developed for [Spartificial](https://spartificial.com) to autom
    
 ### ➡️ **Details of all the files**
 1. _Use `config.py` to configure the parameters according to your system_
-2. _Upload a `data.csv` file that has the data of student names and respective phone numbers_
+2. Add a `data.csv` file of yourn own that has the data of student names and respective phone numbers_
 3. _Use `mouse_coordintes.py` to configure your mouse location on WhatsApp screen_
 4. _`utlity.py` has all the utility functions used in this project_
 5. _Run `main.py` after configuring your mouse location and other parameters if required_
