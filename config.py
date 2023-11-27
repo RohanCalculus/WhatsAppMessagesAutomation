@@ -1,10 +1,10 @@
-# Directory Path containing csv file
-DIRECTORY_PATH = r'C:\Users\spart\Desktop\Python\WhatsApp'
+# Directory Path containing CSV file
+DIRECTORY_PATH = 'PATH_OF_DIRECTORY_CONTAINING_CSV_FILE'
 
-# Configurable parameters for send_whatsapp_messages function
+# Configurable parameters for the send_whatsapp_messages function
 CONTINUE_TO_CHAT_BUTTON_LOC = (953, 424)     # Get the coordinates by using mouse_coordinates.py
-DIST_CONTINUE_CHAT_TO_USE_WHATSAPP_WEB = 79  # Adjust the value according to your screensize
-INITIAL_WAIT_DURATION = 3                    # Change the time depeding on your system speed
+DIST_CONTINUE_CHAT_TO_USE_WHATSAPP_WEB = 79  # Adjust the value according to your screen size
+INITIAL_WAIT_DURATION = 3                    # Change the time depending on your system speed
 WHATSAPP_LOADING_DURATION = 10               # Change the duration based on your chrome loading capacity
 FINAL_WAIT_DURATION = 2                      # Change the time depending on your system speed
 
