@@ -16,7 +16,7 @@ _This project is developed for [Spartificial](https://spartificial.com) to autom
 2. _Upload a `data.csv` file that has the data of student names and respective phone numbers_
 3. _Use `mouse_coordintes.py` to configure your mouse location on WhatsApp screen_
 4. _`utlity.py` has all the utility functions used in this project_
-5. _`main.py` is the main file to run the project! Run it after configuring your mouse location and other parameters if required_
+5. _Run `main.py` after configuring your mouse location and other parameters if required_
 
 ### 🤝 **Developer Details**
 $\rightarrow$ **`Name:`** *Rohan Shah*           
